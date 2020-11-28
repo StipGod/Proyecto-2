@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bichos
+comment1.params=s\ tp
+comment1.target=Bichos(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getSalud()
+comment3.params=s
+comment3.target=void\ setSalud(int)
+comment4.params=
+comment4.target=java.lang.String\ getTipo()
+numComments=5

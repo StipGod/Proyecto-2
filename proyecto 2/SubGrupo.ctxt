@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SubGrupo
+comment1.params=cR
+comment1.target=void\ setCapitalRecibido(double)
+comment2.params=
+comment2.target=double\ getCapitalRecibido()
+comment3.params=i
+comment3.target=void\ setImportancia(double)
+comment4.params=
+comment4.target=double\ getImportancia()
+numComments=5
